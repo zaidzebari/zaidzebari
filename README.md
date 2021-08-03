@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-Software Developer
+### Software Developer
+### Everyday Coding
+
 
